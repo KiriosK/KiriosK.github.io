@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## My name is Kirill Karbushev and this is my project-potfolio
 
-You can use the [editor on GitHub](https://github.com/KiriosK/KiriosK.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a 21y.o. Frontend Developer from Saint-Petersburg and I'm using VueJS as a main framework.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find my pet-projects below.
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some of these project are still in progress, so I'll update the information later.
 
-```markdown
-Syntax highlighted code block
+### Trying React
 
-# Header 1
-## Header 2
-### Header 3
+Just a simple TodoList.
 
-- Bulleted
-- List
+[Source](https://github.com/KiriosK/TodoSite) [Preview](https://kiriosk-todolist.netlify.com)
 
-1. Numbered
-2. List
+### Discovering NuxtJS 
 
-**Bold** and _Italic_ and `Code` text
+App with data preload from server with paginated weather information list and the form to add new cities (without styles).
 
-[Link](url) and ![Image](src)
-```
+[Source](https://github.com/KiriosK/WeatherList)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### WigetBoard
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KiriosK/KiriosK.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TBD
